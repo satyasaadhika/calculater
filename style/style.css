@@ -47,10 +47,18 @@ input[type="button"] {
 
 input[type="button"]:hover {
     transition: 0.5s;
-    background: linear-gradient(#bfbfbf, #d9d9d9);
+    background: linear-gradient(#696767, #48a56c);
 }
 input#clear{
     background: #0d5107;
     border: 1px solid #0a4a05;
     color: white;
+}
+input#equal{
+    width:275px;
+    margin: 10px 0 10px 0;
+    font-size: 30px;
+    color: white;
+    background: #0d5107;
+    border: 1px solid #0a4a05;
 }
