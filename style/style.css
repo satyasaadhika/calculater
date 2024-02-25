@@ -11,3 +11,8 @@ body{
     min-height: 100vh;
     background:linear-gradient(#729aa3, #1270bc , #20565d) ;
 }
+.center{
+    width: 350px;
+    background: black;
+    border-radius: 20px;
+}
